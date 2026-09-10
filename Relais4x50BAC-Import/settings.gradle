@@ -1,0 +1,2 @@
+rootProject.name = "Relais4x50BAC-Import"
+include ':app'
